@@ -4,15 +4,9 @@
 
 Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目，并将他们进行归类。值得注意的是，不是简单的按照编程语言来分类，而是按照更有趣的分类方式，比如：有趣项目、沙雕项目、实战项目、学习项目、实用工具等等。同时欢迎通过 Pull Request 或者 issues 给我们推荐优秀好玩的开源项目。
 
-**欢迎订阅每日推送**
+**欢迎fork**
 
-微信公众号：[@逛逛GitHub](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247509655&idx=1&sn=a0879e64562cfd2b3114d5cdd09b0b20&chksm=f9a2755eced5fc4822404fae1bd71b611fe77419cc8ee8ee52f9bb2cafaf11f0f42cc183876f&token=822393006&lang=zh_CN#rd)    新浪微博：[@逛逛GitHub](https://weibo.com/u/7486950118)      知乎：[@逛逛GitHub](https://www.zhihu.com/people/riao-11)
-
-**说明**
-
- [<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlldddjwlj305k05kwed.jpg" alt="1网站建站"  width="18px" height="18px" />](https://mrbird.cc) 表示该项目对应的网站或者博客；
-
-[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a22492ced5ad84397b04927167a3b92841c95fecb7424a9a0f5e91aae24e2c59d681f2ea2d&idx=1&mid=2247497563&scene=21&sn=bbc1d4f23b6fc15d7a14641f746cfe57#wechat_redirect) 表示在公众号发布的项目简介；
+[喜欢书签-找网站更简单](https://www.likebookmark.com/)
 
 ## 目录
 
